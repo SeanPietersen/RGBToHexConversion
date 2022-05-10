@@ -1,3 +1,4 @@
+using RGBToHexConversion.App;
 using System;
 using Xunit;
 
